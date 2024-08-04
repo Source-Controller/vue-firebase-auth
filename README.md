@@ -27,7 +27,6 @@ firebase.initializeApp({
 
 ``` bash
 # Git Clone Project
-git clone git@github.com:aofdev/vue-firebase-auth-vuex.git
 
 # Cd project
 cd vue-firebase-auth-vuex
